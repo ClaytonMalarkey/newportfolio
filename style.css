@@ -1,0 +1,28 @@
+body {
+
+    background-color: red;
+
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+hr {
+    color: black;
+    height: 5px;
+    border-style: solid black;
+}
+
+.flexright {
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+
+}
+.floatleft {
+    float: left;
+}
+.inital {
+    background-color: yellow;
+    color: black;
+}
